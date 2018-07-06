@@ -18,7 +18,7 @@ import org.apache.hadoop.mapreduce.Job;
 /**
  * counts the number of userIDs
  * 
- * @author sujee ==at== sujee.net
+ * @author hackerspace@rohan-pc
  * 
  */
 public class FreqCounter1 {
